@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useRef } from 'react'
 import { MeshTransmissionMaterial, useGLTF, Text } from "@react-three/drei";
 import { useFrame, useThree } from '@react-three/fiber'
